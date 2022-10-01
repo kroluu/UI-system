@@ -1,0 +1,16 @@
+{
+    "name": "UI.Signals",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cadd3003b70967749a26412154ef0414"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

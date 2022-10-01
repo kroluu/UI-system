@@ -1,0 +1,21 @@
+{
+    "name": "UI.StateMachine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:2e6f66cf2c77724428f4b3aa5a321d4e",
+        "GUID:cadd3003b70967749a26412154ef0414",
+        "GUID:7c7d4204b6e63f34995ac2796e4a97c7",
+        "GUID:45ff1e50aa682b44592167ccf1156f44",
+        "GUID:a43c58e7518cac24a89d6d9a92b58aae"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
